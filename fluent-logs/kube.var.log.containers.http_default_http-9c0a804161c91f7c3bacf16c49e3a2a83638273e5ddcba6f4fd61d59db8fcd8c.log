@@ -1,0 +1,5 @@
+kube.var.log.containers.http_default_http-9c0a804161c91f7c3bacf16c49e3a2a83638273e5ddcba6f4fd61d59db8fcd8c.log: [1600350748.790450, {"log":"Web Server started. Li
+stening on 0.0.0.0:80\n","stream":"stdout","time":"2020-09-17T13:52:28.790449595Z","kubernetes":{"pod_name":"http","namespace_name":"default","pod_id":"38fe2456-5
+ab2-4a7e-8e80-0cd53cc31e9f","labels":{"run":"http"},"host":"node2","container_name":"http","docker_id":"55952ccf63a44eebba1fab90bd4683510dc8e74b49c2de27b75abe7600
+9e95be","container_hash":"katacoda/docker-http-server@sha256:76dc8a47fd019f80f2a3163aba789faf55b41b2fb06397653610c754cb12d3ee","container_image":"katacoda/docker-
+http-server:latest"}}]
